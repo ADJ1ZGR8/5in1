@@ -1,0 +1,104 @@
+#purple {
+    background-color: purple;
+    color: white;
+}
+
+#orange {
+    background-color: orange;
+}
+
+#aqua {
+    background-color: aqua;
+}
+
+button {
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    margin: 5px;
+}
+
+#quote {
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    margin: 5px;
+    display: inline; 
+    background-color: whitesmoke;
+}
+
+.generator {
+    margin: 10px;
+    text-align: center;
+    border: solid;
+    border-radius: 1px;
+}
+
+.genbutton {
+    align-items: center;
+    margin-top: 13px;
+}
+
+.generator h1 {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.generator p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.color {
+    margin: 10px;
+    text-align: center;
+}
+
+.colorbutton {
+    border: none;
+    border-radius: 100px;
+}
+
+.todo {
+    margin: 10px;
+    text-align: center;
+    /* border: solid; */
+    /* border-radius: 1px; */
+    /* background-color: lightgrey; */
+   
+}
+
+.todo button {
+    width: 50px;
+    height: 20px;
+    padding-left: 5px;
+    background-color: dimgrey;
+    color: aliceblue;
+}
+
+#itemInput {
+    width: 200px;
+    height: 50px;
+}
+
+.palindrome {
+    margin: 10px;
+    text-align: center; 
+}
+
+.palindrome h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.palindrome button {
+    width: 55px;
+    height: 25px;
+    text-align: center;
+    background-color: transparent;
+}
+
+.palindrome #time {
+    border-radius: 5px;
+    margin: 5px;
+    background-color: whitesmoke;
+
+}
